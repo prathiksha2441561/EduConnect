@@ -1,0 +1,9 @@
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\obj\Debug\net48\EduConnect.vbproj.AssemblyReference.cache
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\obj\Debug\net48\EduConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\obj\Debug\net48\EduConnect.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\bin\Debug\net48\EduConnect.exe.config
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\bin\Debug\net48\EduConnect.exe
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\bin\Debug\net48\EduConnect.pdb
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\obj\Debug\net48\EduConnect.exe
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\obj\Debug\net48\EduConnect.pdb
+C:\Users\DELL\.gemini\antigravity\playground\distant-aurora\EduConnect\EduConnect\obj\Debug\net48\EduConnect.exe.config
